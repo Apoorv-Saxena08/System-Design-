@@ -14,7 +14,7 @@ In our real world example of Car, imagine you sitting in the car and able to ope
 the car (startEngine, accelerate, brake, turn) just by pressing or moving some
 pedals/buttons/stearing wheel etc. You dont need to know how these things work, and
 also they are hidden under thre hood.
-This Class 'Car' denotes that (pedals/buttons/stearing wheel etc). 
+This Class 'Car' denotes that (pedals/buttons/stearing wheel etc)
 */
 class Car {
 public:
