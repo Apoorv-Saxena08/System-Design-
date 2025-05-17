@@ -2,7 +2,6 @@
 #include <string>
 
 using namespace std;
-
 /*
 Abstract class --> Act as an interface for Outsiude world to operate the car. 
 This abstract class tells 'WHAT' all it can do rather then 'HOW' it does that.
