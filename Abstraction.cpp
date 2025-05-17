@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-
 using namespace std;
 /*
 Abstract class --> Act as an interface for Outsiude world to operate the car. 
